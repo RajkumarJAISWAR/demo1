@@ -1,2 +1,4 @@
+echo "## Edit in github ##"
+echo 
 git init
 git status
