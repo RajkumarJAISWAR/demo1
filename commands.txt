@@ -2,3 +2,8 @@ echo "## Edit in github ##"
 echo 
 git init
 git status
+
+echo ""push command test"
+git pull origin main
+git push origin main
+
